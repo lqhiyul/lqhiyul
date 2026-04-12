@@ -20,4 +20,4 @@ Aspiring Go developer focused on backend development, clean structure, and pract
 - Practical learning through projects
 
 ## Contacts
-- LinkedIn: [your-link-here]
+- LinkedIn: (https://www.linkedin.com/in/%D1%81%D0%B0%D0%BF%D1%80%D1%83%D0%BD-%D1%94%D0%B3%D0%BE%D1%80-4590a03bb/)
