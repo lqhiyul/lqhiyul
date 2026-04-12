@@ -1,4 +1,3 @@
-
 # Hi, I'm Yehor
 
 Aspiring Go developer focused on backend development, clean structure, and practical projects.
