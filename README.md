@@ -3,7 +3,7 @@
 Aspiring Go developer focused on backend development, clean structure, and practical projects.
 
 ## Main Project
-- [Personality Type Test](https://github.com/lqhiyu/personality-type-test) — web app with Go backend, admin panel, and JSON-based storage.
+- [Personality Type Test](https://personality-type-test-69d9.onrender.com) — web app with Go backend, admin panel, and JSON-based storage.
 
 ## Currently Learning
 - Go
